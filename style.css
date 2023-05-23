@@ -1,0 +1,21 @@
+.dash{border-style: none none solid none;border-color: black; width: 150px;}
+
+h2{text-align: center}
+.form{border: 2px solid black; width: 50%;
+position: relative;
+left: 350px;
+text-align: left;
+}
+.word{font-size: 20px;}
+.button{
+    background-color: aquamarine;
+   font-size:80%;
+   position: relative;
+left: 240px;
+border-radius: 8px;
+
+}
+.button:hover{
+    background-color: rgb(0, 0, 0);
+    color: white;
+}
